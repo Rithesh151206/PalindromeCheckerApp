@@ -22,6 +22,7 @@
  * @version 3.0
  */
 import java.util.Scanner;
+import java.util.*;
 public class PalindromeCheckerApp {
 
     public static void main(String[] args) {
